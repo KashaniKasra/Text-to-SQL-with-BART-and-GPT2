@@ -158,7 +158,7 @@ pip install torch scikit-learn pandas numpy tqdm
 
 ---
 
-🧠 Suggested improvements (optional):
+Suggested improvements (optional):
 - Add hyperparameter search or ablation studies
 - Add more detailed plots and learning curves
 - Try alternative model architectures
